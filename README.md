@@ -1,0 +1,1 @@
+# module-federation-just-js
